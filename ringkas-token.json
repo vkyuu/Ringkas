@@ -1259,6 +1259,10 @@
             "value": "{color.base.blue.5}",
             "type": "color"
           },
+          "active-subtle": {
+            "value": "{color.base.blue.4}",
+            "type": "color"
+          },
           "active-positive": {
             "value": "{color.base.green.5}",
             "type": "color"
