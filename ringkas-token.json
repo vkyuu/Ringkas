@@ -1133,11 +1133,11 @@
           },
           "critical": {
             "prominent": {
-              "value": "{color.base.red.7}",
+              "value": "{color.base.red.8}",
               "type": "color"
             },
             "default": {
-              "value": "{color.base.red.6}",
+              "value": "{color.base.red.7}",
               "type": "color"
             },
             "mute": {
@@ -1229,11 +1229,11 @@
           },
           "critical": {
             "prominent": {
-              "value": "{color.base.red.7}",
+              "value": "{color.base.red.8}",
               "type": "color"
             },
             "default": {
-              "value": "{color.base.red.6}",
+              "value": "{color.base.red.7}",
               "type": "color"
             },
             "mute": {
