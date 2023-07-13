@@ -1061,7 +1061,7 @@
               "type": "color"
             },
             "default": {
-              "value": "{color.base.gray.9}",
+              "value": "{color.base.gray.8}",
               "type": "color"
             },
             "mute": {
