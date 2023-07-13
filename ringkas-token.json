@@ -1161,11 +1161,11 @@
               "type": "color"
             },
             "mute": {
-              "value": "{color.base.gray.3}",
+              "value": "{color.base.gray.2}",
               "type": "color"
             },
             "subtle": {
-              "value": "{color.base.gray.2}",
+              "value": "{color.base.gray.1}",
               "type": "color"
             },
             "white": {
